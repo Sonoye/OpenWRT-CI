@@ -45,3 +45,6 @@ CONFIG_PACKAGE_luci-app-samba4=y  # Samba文件共享
 CONFIG_PACKAGE_luci-app-socat=y  # Socat端口转发工具
 CONFIG_PACKAGE_luci-app-ttyd=y  # Web终端
 CONFIG_PACKAGE_luci-theme-argon=y  # Argon主题</font>
+CONFIG_PACKAGE_luci-app-docker=y  # docker容器
+CONFIG_PACKAGE_luci-app-frpc=y  #frp客户端
+CONFIG_PACKAGE_luci-app-samba4=y 
